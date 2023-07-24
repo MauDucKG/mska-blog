@@ -1,1 +1,84 @@
-<svg viewBox="0 0 1080 1080" fill="none" xmlns="http://www.w3.org/2000/svg">      <defs>  <filter id="filter" x="-20%" y="-20%" width="140%" height="140%" filterUnits="objectBoundingBox" primitiveUnits="userSpaceOnUse" color-interpolation-filters="linearRGB">    <feMorphology operator="dilate" radius="20 20" in="SourceAlpha" result="morphology"/>    <feFlood flood-color="#ffffff" flood-opacity="1" result="flood"/>    <feComposite in="flood" in2="morphology" operator="in" result="composite"/>    <feMerge result="merge">          <feMergeNode in="composite" result="mergeNode"/>      <feMergeNode in="SourceGraphic" result="mergeNode1"/>      </feMerge>  </filter></defs>      <g id="notion-avatar" filter="url(#filter)">        <g id="notion-avatar-face" fill="#ffffff">      <!--?xml version="1.0" encoding="UTF-8"?-->    <title>Face/ 7</title>    <g id="Face/-7" stroke="none" stroke-width="1" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">        <path d="M532,379 C664.54834,379 772,486.45166 772,619 C772,751.54834 764.54834,919 572,919 C415.13263,919 351.668898,801.612202 313.752775,718.980575 L313.322946,718.989282 L312,719 C267.81722,719 232,683.18278 232,639 C232,599.134956 261.158843,566.080325 299.312086,560.00055 C325.599297,455.979213 419.809919,379 532,379 Z M295.858895,624.545187 L304.141105,655.454813" id="Path" stroke="#000000" stroke-width="24"/>    </g>    </g><g id="notion-avatar-nose">      <!--?xml version="1.0" encoding="UTF-8"?-->    <title>Nose/ 2</title>    <g id="Nose/-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">        <path d="M692.893232,627.725033 C673.627879,639.855074 659.236623,647.263498 649.719463,649.950306 C640.202303,652.637114 625.722036,653.379465 606.278663,652.177361" id="Line" stroke="#000000" stroke-width="16" transform="translate(649.585948, 640.229885) rotate(-89.234993) translate(-649.585948, -640.229885) "/>    </g>    </g><g id="notion-avatar-mouth">      <!--?xml version="1.0" encoding="UTF-8"?-->    <title>Mouth/ 1</title>    <g id="Mouth/-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">        <path d="M549,759 C575.12979,773.666667 603.12979,781 633,781 C662.87021,781 682.87021,773.666667 693,759" id="Path" stroke="#000000" stroke-width="16"/>    </g>    </g><g id="notion-avatar-eyes">      <!--?xml version="1.0" encoding="UTF-8"?-->    <title>Eyes/ 8</title>    <g id="Eyes/-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">        <path d="M570,516 C578.836556,516 586,526.745166 586,540 C586,553.254834 578.836556,564 570,564 C561.163444,564 554,553.254834 554,540 C554,526.745166 561.163444,516 570,516 Z M708,516 C716.836556,516 724,526.745166 724,540 C724,553.254834 716.836556,564 708,564 C699.163444,564 692,553.254834 692,540 C692,526.745166 699.163444,516 708,516 Z" id="Combined-Shape" fill="#000000"/>    </g>    </g><g id="notion-avatar-eyebrows">      <!--?xml version="1.0" encoding="UTF-8"?-->    <title>Eyebrows/ 1</title>    <g id="Eyebrows/-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="round">        <g id="Group" transform="translate(521.000000, 490.000000)" stroke="#000000" stroke-width="20">            <path d="M0,16 C12.8888889,5.33333333 27.8888889,0 45,0 C62.1111111,0 77.1111111,5.33333333 90,16" id="Path"/>            <path d="M146,16 C158.888889,5.33333333 173.888889,0 191,0 C208.111111,0 223.111111,5.33333333 236,16" id="Path"/>        </g>    </g>    </g><g id="notion-avatar-glasses">      <g id="Glasses/ 12"><g id="Group"><path id="Path" fill-rule="evenodd" clip-rule="evenodd" d="M805.209 500.217C805.813 491.284 798.652 484 789.699 484H455C446.163 484 439 491.163 439 500V575.76C439 580.706 441.26 585.352 445.249 588.275C465.881 603.396 532.959 650 575.94 650C627.244 650 619.761 588.343 666.321 588.343C712.881 588.343 690.97 650 747.116 640.514C791.7 632.982 802.608 538.717 805.209 500.217Z" fill="white" stroke="black" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><g id="Group_2"><path id="Mask" fill-rule="evenodd" clip-rule="evenodd" d="M783.642 509.995C783.893 505.509 780.3 501.847 775.807 501.847L465 501.847C460.582 501.847 457 505.428 457 509.847V561.349C457 563.759 458.047 566.008 459.946 567.493C474.566 578.927 540.245 628.47 580.546 628.47C611.607 628.47 603.397 573.489 662.087 568.491C720.777 563.492 704.644 623.472 742.954 620.14C775.033 617.35 782.169 536.288 783.642 509.995Z" fill="black"/><mask id="mask0_0_1157" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="457" y="501" width="327" height="128"><path id="Mask_2" fill-rule="evenodd" clip-rule="evenodd" d="M783.642 509.995C783.893 505.509 780.3 501.847 775.807 501.847L465 501.847C460.582 501.847 457 505.428 457 509.847V561.349C457 563.759 458.047 566.008 459.946 567.493C474.566 578.927 540.245 628.47 580.546 628.47C611.607 628.47 603.397 573.489 662.087 568.491C720.777 563.492 704.644 623.472 742.954 620.14C775.033 617.35 782.169 536.288 783.642 509.995Z" fill="white"/></mask><g mask="url(#mask0_0_1157)"><path id="Path_2" d="M671.808 492.742L781.264 580.828" stroke="white" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/><path id="Path_3" d="M696.436 478.979L805.892 567.065" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/></g></g><path id="Path_4" fill-rule="evenodd" clip-rule="evenodd" d="M439 492.036L284 523V566.875L439 552V492.036Z" fill="black" stroke="black" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/></g></g>    </g><g id="notion-avatar-hair">      <!--?xml version="1.0" encoding="UTF-8"?-->    <title>Hairstyle/ 3</title>    <g id="Hairstyle/-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">        <path d="M468,155 C494.413508,155 517.505024,169.223139 530.033478,190.428348 C542.638883,179.566707 559.052573,173 577,173 C607.278861,173 633.192307,191.690562 643.83239,218.163736 C650.523576,216.106563 657.632562,215 665,215 C699.786693,215 728.811394,239.670025 735.533019,272.468992 C768.002006,279.12141 793,314 793,343 C793,372 789.333333,379 782,405 C774.666667,431 761.666667,458.333333 743,487 L742.487847,486.071181 C738.468171,478.85706 732.305556,469.5 724,458 C719.654204,451.982745 713.183929,446.346749 708,441 C703.288148,442.688186 700.961321,443.835284 697.999909,444.579207 C634.162314,458.31332 585.060234,463.786515 550.69367,460.998791 L543.474261,460.399732 L540.29429,460.150618 C513.724479,458.137897 460.670673,455.9739 427,477 C388.41902,501.092406 375.286815,555.63188 372.093734,571.530134 L371.83052,572.876479 L371.66972,573.747986 C369.058511,588.2233 367.192111,614.492798 366.07052,652.556479 L366,655 L328.116663,564.824988 L287.145773,564.824988 L287.123625,564.742696 C285.105011,564.913266 283.062634,565 281,565 C241.235498,565 209,532.764502 209,493 C209,462.831845 227.554139,436.997241 253.873676,426.284928 C238.060403,413.079216 228,393.214474 228,371 C228,331.235498 260.235498,299 300,299 C301.933893,299 303.849978,299.076244 305.745413,299.225891 C302.046294,290.559511 300,281.018724 300,271 C300,231.235498 332.235498,199 372,199 C381.775632,199 391.096237,200.948197 399.594739,204.477513 C409.046897,175.744373 436.100894,155 468,155 Z" id="Path" stroke="#000000" stroke-width="12" fill="#000000"/>    </g>    </g><g id="notion-avatar-accessories">      <!--?xml version="1.0" encoding="UTF-8"?-->    <title>Accessories/ 0</title>    <g id="Accessories/-0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"/>    </g><g id="notion-avatar-details">      <!--?xml version="1.0" encoding="UTF-8"?-->    <title>Details/ 0</title>    <g id="Details/-0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"/>    </g><g id="notion-avatar-beard">      <!--?xml version="1.0" encoding="UTF-8"?-->    <title>Beard/ 0</title>    <g id="Beard/-0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"/>    </g>      </g>      </svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--noto" preserveAspectRatio="xMidYMid meet">
+<path d="M31.13 110.55c0-4.3 6.01-19.49 6.01-19.49c5.79-1.79 47.6-.27 53.97-.27c0 0 5.76 12.33 5.76 19.76S79.19 124 64.06 124s-32.93-6.02-32.93-13.45z" fill="#8b5738">
+</path>
+<ellipse cx="64.06" cy="93.5" rx="27.05" ry="11.75" fill="#ffb17a">
+</ellipse>
+<g>
+<path d="M38.67 106.15c3.02 1.72 7.8 1.59 11.51 2.26c4.72.86 7.39 4.46 16.49 4.3c3.25-.06 10.83-.43 10.41-.42c-.26-.53-1.74-1.04-4.62-1.49c-2.64-.42-4.54-.38-7.6-.38c-2.34 0-5.55-.7-8.79-2.48c-1.48-.81-3.78-1.71-6.03-2.17c-3.46-.71-5.87.04-10.7-2.25c-2.31-1.09-4.18-3.35-4.62-5.98l-1.14 3.28c1.5 2.75 2.87 4.07 5.09 5.33z" fill="#cc8552">
+</path>
+<path d="M88.44 103.46c-7.74 4.92-14.28 4.37-14.28 4.37c-.55.36 3.96 1.33 7.31.77c6.58-1.1 10.58-4.4 13.18-8.82c-.36-1.12-1.15-3.24-1.15-3.24c-.75 1.81-1.62 4.73-5.06 6.92z" fill="#cc8552">
+</path>
+<path d="M74.51 117.42c-4.28.78-8.38-.55-12.59-1.54c-5.77-1.35-16.61-1.16-16.61-1.16c-.65.32 5.11 2.41 7.91 2.65c2.55.22 5.25 0 7.67.99c3.41 1.39 6.71 2.09 10.01 2.09c6.27 0 14.46-3.78 16.41-8.69c0 0-3.58 2.1-6.36 3.51c-2.02 1.03-4.2 1.75-6.44 2.15z" fill="#a86d44">
+</path>
+<path d="M35.82 111.48c.85 1.36 1.72 2.62 2.86 3.75c1.93 1.92 4.37 3.03 5.94 2.75c0 0-5.56-4.49-4.97-5.66c.3-.6 11.84.35 11.84.35s-3.5-1.84-6.91-2.5c-2.21-.43-6.25.43-9.93-2.16c-2.03-1.43-2.34-3.15-2.34-3.15s-.73 2.49-.88 3.44c2.13 2.23 4.11 2.73 4.39 3.18z" fill="#a86d44">
+</path>
+<path d="M94.3 106.54c-2.02 1.81-5.21 5.47-5.21 7.36c0 0 3.58-3.47 5.99-5.06c.6-.39 1.03-.89 1.5-1.42c0 0-.24-1.79-.62-3.06c-.15.85-.76 1.38-1.66 2.18z" fill="#a86d44">
+</path>
+</g>
+<g>
+<radialGradient id="IconifyId17ecdb2904d178eab7492" cx="77.121" cy="66.694" r="76.184" gradientTransform="rotate(-3.714 -608.323 2.714)" gradientUnits="userSpaceOnUse">
+<stop offset=".104" stop-color="#ce93d8">
+</stop>
+<stop offset="1" stop-color="#ab47bc">
+</stop>
+</radialGradient>
+<circle cx="64" cy="52.76" r="48.76" fill="url(#IconifyId17ecdb2904d178eab7492)">
+</circle>
+<radialGradient id="IconifyId17ecdb2904d178eab7493" cx="53.349" cy="46.135" r="69.389" gradientUnits="userSpaceOnUse">
+<stop offset=".28" stop-color="#81d4fa" stop-opacity="0">
+</stop>
+<stop offset=".964" stop-color="#81d4fa" stop-opacity=".9">
+</stop>
+</radialGradient>
+<circle cx="64" cy="52.76" r="48.76" fill="url(#IconifyId17ecdb2904d178eab7493)">
+</circle>
+<linearGradient id="IconifyId17ecdb2904d178eab7494" gradientUnits="userSpaceOnUse" x1="74.69" y1="10.651" x2="35.942" y2="111.007">
+<stop offset="0" stop-color="#673ab7">
+</stop>
+<stop offset=".937" stop-color="#673ab7" stop-opacity="0">
+</stop>
+</linearGradient>
+<path d="M45.91 22.37c4.54.39 13.84 3.79 7.07 12.51C48.53 40.61 42.97 45.94 41 50.55c-5.69 13.33 8.57 18.77 13 20.16c3.84 1.21 11.24 3.91 13.32 7.36C75.35 91.37 50.93 95 50.93 95s17.97 6.55 32.77-3.46c5.6-3.79 10.53-12.61 5.71-20.55c-2.34-3.85-8.79-7.32-10.37-8.56c-6.76-5.34-10.93-10.86-7.57-17.05c1.36-2.5 4.2-3.8 6.95-4.56c7.7-2.13 17.31-1.75 19.82-11.26C100.41 21.36 84.57 3.04 60 6.02c-10.2 1.23-19.38 5.5-26.89 12.52c-13.86 12.97-12.66 23.7-12.66 23.7s9.03-21.3 25.46-19.87z" opacity=".7" fill="url(#IconifyId17ecdb2904d178eab7494)">
+</path>
+<linearGradient id="IconifyId17ecdb2904d178eab7495" gradientUnits="userSpaceOnUse" x1="80.878" y1="24.934" x2="80.878" y2="108.077">
+<stop offset=".235" stop-color="#1d44b3">
+</stop>
+<stop offset=".884" stop-color="#2044b3" stop-opacity=".074">
+</stop>
+<stop offset=".936" stop-color="#2144b3" stop-opacity="0">
+</stop>
+</linearGradient>
+<path d="M99.77 24.22c-3.48-5.06-8.29-9.08-13.36-12.55c-8.09-5.53-18.55-5.98-18.55-5.98c12.84 6.14 11.4 14.28 7.21 20.1c-5.1 7.09-15.33 11.88-18 20.51c-1.56 5.04-.6 10.34 4.31 13.56s22.58 11.77 23.19 21.89c.46 7.62-5.6 12.42-5.6 12.42c7.09-1.53 22.01-11.97 17.59-22.71c-2.14-5.2-11.87-8.65-6.97-14.58c1.82-2.21 14.53-3.39 15.72-16.25c.55-6.01-2.69-12.27-5.54-16.41z" opacity=".39" fill="url(#IconifyId17ecdb2904d178eab7495)">
+</path>
+<linearGradient id="IconifyId17ecdb2904d178eab7496" gradientUnits="userSpaceOnUse" x1="-2575.355" y1="437.519" x2="-2575.355" y2="471.206" gradientTransform="scale(-1 1) rotate(15.017 293.083 9871.848)">
+<stop offset=".227" stop-color="#ffffff">
+</stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0">
+</stop>
+</linearGradient>
+<path d="M24.71 61.66s-7.3-19.36 7.69-37.29c12.35-14.78 23.5-8.8 21.78-2.5c-1.73 6.3-7.1 8.24-15.19 14.57C28.3 44.8 24.71 61.66 24.71 61.66z" opacity=".85" fill="url(#IconifyId17ecdb2904d178eab7496)">
+</path>
+<g>
+<linearGradient id="IconifyId17ecdb2904d178eab7497" gradientUnits="userSpaceOnUse" x1="85.871" y1="28.96" x2="85.871" y2="52.387">
+<stop offset=".261" stop-color="#ffffff">
+</stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0">
+</stop>
+</linearGradient>
+<path d="M92.96 34.77c-1.95-.97-3.51-2.19-4.19-4.26l-2.89-9.57l-2.89 9.57c-.68 2.06-2.25 3.29-4.19 4.26l-4.83 2.09l4.97 2.06c1.95.97 3.37 2.3 4.06 4.36l2.89 9.49l2.89-9.49c.68-2.06 2.11-3.39 4.06-4.36l4.97-2.06l-4.85-2.09z" fill="url(#IconifyId17ecdb2904d178eab7497)">
+</path>
+<linearGradient id="IconifyId17ecdb2904d178eab7498" gradientUnits="userSpaceOnUse" x1="76.221" y1="58.161" x2="76.221" y2="85.231">
+<stop offset="0" stop-color="#ffffff">
+</stop>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0">
+</stop>
+</linearGradient>
+<path d="M83.31 69.37c-1.95-.97-3.51-2.19-4.19-4.26l-2.89-9.57l-2.89 9.57c-.68 2.06-2.25 3.29-4.19 4.26l-4.83 2.09l4.97 2.06c1.95.97 3.37 2.3 4.06 4.36l2.89 9.49l2.89-9.49c.68-2.06 2.11-3.39 4.06-4.36l4.97-2.06l-4.85-2.09z" fill="url(#IconifyId17ecdb2904d178eab7498)">
+</path>
+<path d="M106.34 53.97c-1.47-.73-2.65-1.66-3.17-3.21l-2.18-7.23l-2.18 7.23c-.52 1.56-1.7 2.48-3.17 3.21L92 55.55l3.75 1.56c1.47.73 2.55 1.73 3.06 3.29l2.18 7.16l2.18-7.16c.52-1.56 1.59-2.56 3.06-3.29l3.75-1.56l-3.64-1.58z" fill="#ffffff">
+</path>
+</g>
+</g>
+</svg>
